@@ -1,0 +1,128 @@
+[
+  {
+    "id": "40",
+    "data": "{\"x\":-1321.6,\"y\":-1085.63,\"ti\":\"\",\"tm\":\"scf\",\"zm\":0.29}",
+    "opcode": "change",
+    "type": "wb",
+    "ctId": null
+  },
+  {
+    "id": "697:0",
+    "data": "{\"cl\":\"yellow\",\"x\":444.63,\"y\":752.41,\"wi\":177.4,\"he\":118.27,\"tx\":\"Hand Signature\",\"z\":0,\"pn\":false,\"bg\":\"\"}",
+    "opcode": "change",
+    "type": "pt",
+    "ctId": null
+  },
+  {
+    "id": "697:1",
+    "data": "{\"cl\":\"yellow\",\"x\":890.88,\"y\":768.59,\"wi\":185.81,\"he\":123.87,\"tx\":\"Gesture Recognition\",\"z\":0,\"pn\":false,\"bg\":\"\"}",
+    "opcode": "change",
+    "type": "pt",
+    "ctId": null
+  },
+  {
+    "id": "697:10",
+    "data": "{\"cl\":\"yellow\",\"x\":1473.6,\"y\":491.59,\"wi\":180,\"he\":120,\"tx\":\"Related Work\",\"z\":0,\"pn\":false,\"bg\":\"\"}",
+    "opcode": "change",
+    "type": "pt",
+    "ctId": null
+  },
+  {
+    "id": "697:11",
+    "data": "{\"cl\":\"gray\",\"x\":447.49,\"y\":614.36,\"wi\":171.43,\"he\":114.29,\"tx\":\"Unique\\nUser Activities\",\"z\":0,\"pn\":false,\"bg\":\"\"}",
+    "opcode": "change",
+    "type": "pt",
+    "ctId": null
+  },
+  {
+    "id": "697:12",
+    "data": "{\"cl\":\"gray\",\"x\":1019.3,\"y\":639.01,\"wi\":171.43,\"he\":114.29,\"tx\":\"other\",\"z\":0,\"pn\":false,\"bg\":\"\"}",
+    "opcode": "change",
+    "type": "pt",
+    "ctId": null
+  },
+  {
+    "id": "697:14",
+    "data": "{\"cl\":\"yellow\",\"x\":237.09,\"y\":883.14,\"wi\":180,\"he\":120,\"tx\":\"Face Recognition\",\"z\":0,\"pn\":false,\"bg\":\"\"}",
+    "opcode": "change",
+    "type": "pt",
+    "ctId": null
+  },
+  {
+    "id": "697:17",
+    "data": "{\"cl\":\"yellow\",\"x\":233.29,\"y\":1014.73,\"wi\":180,\"he\":120,\"tx\":\"Touch behavior\",\"z\":0,\"pn\":false,\"bg\":\"\"}",
+    "opcode": "change",
+    "type": "pt",
+    "ctId": null
+  },
+  {
+    "id": "697:18",
+    "data": "{\"cl\":\"yellow\",\"x\":438.06,\"y\":1028.01,\"wi\":177.4,\"he\":118.27,\"tx\":\"Touch Signatures\",\"z\":0,\"pn\":false,\"bg\":\"\"}",
+    "opcode": "change",
+    "type": "pt",
+    "ctId": null
+  },
+  {
+    "id": "697:25",
+    "data": "{\"cl\":\"yellow\",\"x\":2715.85,\"y\":630.08,\"wi\":180,\"he\":120,\"tx\":\"User Study\",\"z\":0,\"pn\":false,\"bg\":\"\"}",
+    "opcode": "change",
+    "type": "pt",
+    "ctId": null
+  },
+  {
+    "id": "697:26",
+    "data": "{\"cl\":\"blue\",\"x\":2908.18,\"y\":713.59,\"wi\":180,\"he\":120,\"tx\":\"Evaluation\\nwith real users\",\"z\":0,\"pn\":false,\"bg\":\"\"}",
+    "opcode": "change",
+    "type": "pt",
+    "ctId": null
+  },
+  {
+    "id": "697:27",
+    "data": "{\"cl\":\"blue\",\"x\":2913.24,\"y\":560.48,\"wi\":180,\"he\":120,\"tx\":\"Create Test Data\",\"z\":0,\"pn\":false,\"bg\":\"\"}",
+    "opcode": "change",
+    "type": "pt",
+    "ctId": null
+  },
+  {
+    "id": "697:28",
+    "data": "{\"cl\":\"yellow\",\"x\":2170.5,\"y\":654.12,\"wi\":180,\"he\":120,\"tx\":\"Implement\",\"z\":0,\"pn\":false,\"bg\":\"\"}",
+    "opcode": "change",
+    "type": "pt",
+    "ctId": null
+  },
+  {
+    "id": "697:29",
+    "data": "{\"cl\":\"blue\",\"x\":2388.34,\"y\":564.41,\"wi\":172,\"he\":114.67,\"tx\":\"Which devices?\",\"z\":0,\"pn\":false,\"bg\":\"\"}",
+    "opcode": "change",
+    "type": "pt",
+    "ctId": null
+  },
+  {
+    "id": "697:30",
+    "data": "{\"cl\":\"blue\",\"x\":2388.13,\"y\":732.57,\"wi\":180,\"he\":120,\"tx\":\"How to access sensors?\",\"z\":0,\"pn\":false,\"bg\":\"\"}",
+    "opcode": "change",
+    "type": "pt",
+    "ctId": null
+  },
+  {
+    "id": "697:31",
+    "data": "{\"cl\":\"rose\",\"x\":3020.24,\"y\":796.73,\"wi\":90,\"he\":60,\"tx\":\"3-5 users\",\"z\":1,\"pn\":false,\"bg\":\"\"}",
+    "opcode": "change",
+    "type": "pt",
+    "ctId": null
+  },
+  {
+    "id": "697:34",
+    "data": "{\"cl\":\"turquoise\",\"x\":1744.3,\"y\":1083.64,\"wi\":180,\"he\":120,\"tx\":\"Challenges\",\"z\":0,\"pn\":false,\"bg\":\"\"}",
+    "opcode": "change",
+    "type": "pt",
+    "ctId": null
+  },
+  {
+    "id": "697:36",
+    "data": "{\"cl\":\"green\",\"x\":1952.86,\"y\":1262.74,\"wi\":180,\"he\":120,\"tx\":\"higher precision\",\"z\":0,\"pn\":false,\"bg\":\"\"}",
+    "opcode": "change",
+    "type": "pt",
+    "ctId": null
+  }
+]
